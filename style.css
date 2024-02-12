@@ -1,0 +1,137 @@
+body{
+    background-image: url(./image/NEUMORPHIC_CIRCLES_BACKGROUND.jpg);
+    background-size: cover;
+    overflow: hidden;
+}
+
+.accordion{
+    width: 275px;
+}
+.accordion:nth-child(2){
+    position: relative;
+    left: 340px;
+}
+.accordion-item {
+}
+.accordion-header {
+}
+.accordion-button {
+}
+.collapsed {
+}
+.accordion__title {
+}
+.accordion-collapse {
+}
+.collapse {
+}
+.accordion-body {
+}
+.accordion__Description {
+
+}
+.title-secondTask{
+    position: relative;
+    left: -120px;
+    color: white;
+    font-size: 19px;
+    top: -65px;
+    text-align: center;
+}
+.text-secondTask{
+    position: relative;
+    color: lightgreen;
+    font-weight: 600;
+    left: -120px;
+    text-align: center;
+    top: -50px;
+}
+.title-thirdTask{
+    top: -160px;
+    left: 280px;
+    position: relative;
+    color: white;
+    font-size: 19px;
+    text-align: center;
+}
+.text-thirdTask{
+    position: relative;
+    color: lightseagreen;
+    font-weight: 600;
+    text-align: center;
+    font-size: 23px;
+    top: -160px;
+    left: 280px;
+}
+.title-fourTask{
+    top: -70px;
+    left: 280px;
+    position: relative;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+.text-fourTask{
+    position: relative;
+    text-wrap: wrap;
+    color: lightseagreen;
+    font-weight: 600;
+    text-align: center;
+    font-size: 23px;
+    top: -160px;
+    left: 280px;
+}
+.title-fiveTask{
+    top: -185px;
+    left: -400px;
+    position: relative;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+.text-fiveTask{
+    position: relative;
+    text-wrap: wrap;
+    color: rgb(246, 0, 246);
+    font-weight: 600;
+    text-align: center;
+    font-size: 23px;
+    top: -172.5px;
+    left: -400px;
+}
+.title-sixTask{
+    top: -155px;
+    left: -80px;
+    position: relative;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+.text-sixTask{
+    position: relative;
+    text-wrap: wrap;
+    color: rgb(246, 0, 246);
+    font-weight: 600;
+    text-align: center;
+    font-size: 23px;
+    top: -140px;
+    left: -80px;
+}
+.title-sevenTask{
+    top: -310px;
+    left: 330px;
+    position: relative;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+.text-sevenTask{
+    position: relative;
+    text-wrap: wrap;
+    color: rgb(246, 0, 246);
+    font-weight: 600;
+    text-align: center;
+    font-size: 23px;
+    top: -230px;
+    left: 300px;
+}
